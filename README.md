@@ -12,7 +12,7 @@ A  collection of my cybersecurity projects, scripts, and research. This reposito
 | [Network Traffic Analysis](/network-traffic-analysis/) | Discovers open ports and live hosts on a network. | Bash, Nmap |  
 | [Malware Analysis](/malware-analysis/) | Static/dynamic analysis reports for malware samples. | PEiD, Wireshark, Cuckoo Sandbox |  
 | [Scripts](/scripts/) | Utility scripts (port scanning, hash generation, etc.). | Python, Bash | 
-| [Splunk(/splunk/)] | Hands On Practical Experience (threat hunting and data analysis) |
+| [Splunk](/splunk/) | Hands On Practical Experience (threat hunting and data analysis) |
 
 ---
 
