@@ -25,5 +25,5 @@ A  collection of my cybersecurity projects, scripts, and research. This reposito
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/cybersecurity-projects.git  
+   git clone https://github.com/Esdras17/cybersecurity-portfolio.git  
    cd cybersecurity-projects  
